@@ -73,7 +73,7 @@ The model undergoes significant refinement across training epochs:
 
 ## 👤 Author
 
-**Vidwath** \* B.Tech in Artificial Intelligence, SVNIT Surat
+**Vidwath** \* 
 
   * [GitHub](https://www.google.com/search?q=https://github.com/vidu24)
 
